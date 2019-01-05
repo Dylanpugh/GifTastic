@@ -1,0 +1,37 @@
+#body{
+    background-color: blue;
+}
+
+img{
+    border: 5px solid yellow;
+    display: flex;
+    flex-wrap: wrap;
+    float: left;
+    width: 25%;
+
+}
+
+.form-display{
+    border: 5px solid red;
+    color: green;
+    font-weight: bold;
+}
+
+.input-title{
+    color: white;
+    font-weight: bold;
+}
+
+h1{
+    color: red;
+    font-size: 100px;
+}
+
+.avengerBtn{
+    color: green;
+    font-weight: bold;
+}
+
+hr{
+    border: 2px solid yellow;
+}
